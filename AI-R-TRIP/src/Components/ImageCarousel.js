@@ -1,0 +1,52 @@
+import React, { useState } from "react";
+import "./ImageCarousel.css";
+
+const ImageCarousel = ({ data }) => {
+  const [slide, setSlide] = useState(0);
+
+  const nextSlide = () => {
+    setSlide(slide === data.length - 1 ? 0 : slide + 1);
+  };
+
+  const prevSlide = () => {
+    setSlide(slide === 0 ? data.length - 1 : slide - 1);
+  };
+
+  return (
+    <div className="carousel">
+      <i
+        class="fa-solid fa-chevron-left arrow arrow-left"
+        onClick={prevSlide}
+      ></i>
+
+      {data.map((item, idx) => {
+        return (
+          <img
+            src={item.src}
+            alt={item.alt}
+            key={idx}
+            className={slide === idx ? "slide" : "slide slide-hidden"}
+          />
+        );
+      })}
+      <i
+        class="fa-solid fa-chevron-right arrow arrow-right"
+        onClick={nextSlide}
+      ></i>
+      {/* <span className="indicators">
+        {data.map((_, idx) => {
+          return (
+            <button
+              key={idx}
+              className={
+                slide === idx ? "indicator" : "indicator indicator-inactive"
+              }
+              onClick={() => setSlide(idx)}
+            ></button>
+          );
+        })}
+      </span> */}
+    </div>
+  );
+};
+export default ImageCarousel;

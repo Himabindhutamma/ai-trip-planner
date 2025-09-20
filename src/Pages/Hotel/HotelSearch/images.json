@@ -1,0 +1,201 @@
+{
+  "swimmingData": [
+    {
+      "id": 1,
+      "url": "https://r1imghtlak.mmtcdn.com/976d5324220911e88615025f77df004f.jpg?&output-quality=75&downsize=520:350&crop=520:350;81,0&output-format=webp&downsize=480:336&crop=480:336"
+    },
+    {
+      "id": 2,
+      "url": "https://r1imghtlak.mmtcdn.com/962322fa220911e880f4025f77df004f.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://r1imghtlak.mmtcdn.com/98b6b130220911e8870b0a4cef95d023.jpg"
+    },
+    {
+      "id": 4,
+      "url": "https://r1imghtlak.mmtcdn.com/951e3264220911e8b035025f77df004f.jpg"
+    },
+    {
+      "id": 5,
+      "url": "https://r1imghtlak.mmtcdn.com/962322fa220911e880f4025f77df004f.jpg"
+    },
+    {
+      "id": 6,
+      "url": "https://r1imghtlak.mmtcdn.com/98b6b130220911e8870b0a4cef95d023.jpg"
+    },
+    {
+      "id": 7,
+      "url": "https://r1imghtlak.mmtcdn.com/951e3264220911e8b035025f77df004f.jpg"
+    }
+  ],
+  "guestImages": [
+    {
+      "id": 1,
+      "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH7415524989300/QS1042/QS1042-Q1/20190721_150427.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH70064219045972/QS1042/QS1042-Q1/1659269210972.jpeg"
+    },
+    {
+      "id": 3,
+      "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH70007328782084/QS1042/QS1042-Q1/1716711668599.jpeg"
+    },
+    {
+      "id": 4,
+      "url": "https://r1imghtlak.mmtcdn.com/951e3264220911e8b035025f77df004f.jpg"
+    }
+  ],
+  "roomtypes": {
+    "roomtype": [
+      {
+        "roomtitle": "One Bedroom Hill View, 1 Bedroom Apartment, 1 Queen",
+        "roomsize": "(501 sq.ft (47 sq.mt) | Mountain/Hill View | Queen Bed)",
+        "roomaminities": [
+          "24-hour Housekeeping",
+          "Wi-Fi",
+          "Air Conditioning",
+          "Iron/Ironing Board",
+          "Bathroom",
+          "24-hour In-room Dining"
+        ],
+        "roomstay": [
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          },
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "No need to Pay right now. Only Credit Card details required.",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          },
+          {
+            "title": "Stay with Breakfast",
+            "includes": [
+              "No meals included",
+              "Pamper Your Pooch Package Inclusions:- Welcome box with Chefs special amenities for guest and the pet- Complimentary Buffet Breakfast at ",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          }
+        ]
+      },
+      {
+        "roomtitle": "Two Bedroom Hill View, 2 Bedroom Apartment",
+        "roomsize": "(1008 sq.ft (94 sq.mt) | Mountain/Hill View | Queen Bed)",
+        "roomaminities": [
+          "24-hour Housekeeping",
+          "Wi-Fi",
+          "Air Conditioning",
+          "Iron/Ironing Board",
+          "Bathroom",
+          "24-hour In-room Dining"
+        ],
+        "roomstay": [
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620"
+          },
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "No need to Pay right now. Only Credit Card details required.",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          },
+          {
+            "title": "Stay with Breakfast",
+            "includes": [
+              "No meals included",
+              "Pamper Your Pooch Package Inclusions:- Welcome box with Chefs special amenities for guest and the pet- Complimentary Buffet Breakfast at ",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          }
+        ]
+      },
+      {
+        "roomtitle": "One Bedroom Hill View, 1 Bedroom Apartment, 1 Queen",
+        "roomsize": "(501 sq.ft (47 sq.mt) | Mountain/Hill View | Queen Bed)",
+        "roomaminities": [
+          "24-hour Housekeeping",
+          "Wi-Fi",
+          "Air Conditioning",
+          "Iron/Ironing Board",
+          "Bathroom",
+          "24-hour In-room Dining"
+        ],
+        "roomstay": [
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          },
+          {
+            "title": "Stay Only",
+            "includes": [
+              "No meals included",
+              "No need to Pay right now. Only Credit Card details required.",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          },
+          {
+            "title": "Stay with Breakfast",
+            "includes": [
+              "No meals included",
+              "Pamper Your Pooch Package Inclusions:- Welcome box with Chefs special amenities for guest and the pet- Complimentary Buffet Breakfast at ",
+              "Free Stay & Breakfast for Kids below 12 yrs age",
+              "Complimentary glass of Beer per person per day in the Restaurant.",
+              "Non-Refundable"
+            ],
+            "price": "₹ 9,000",
+            "taxes": "+₹ 1,620 taxes & fees / Per Night"
+          }
+        ]
+      }
+    ]
+  }
+}
